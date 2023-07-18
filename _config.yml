@@ -21,7 +21,7 @@
 title: Andre Costa Pro
 email: oi@andrecosta.pro
 description: >- # this means to ignore newlines until "baseurl:"
-  Site pessoal de Andre Costa
+  < />
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://andrecosta.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mrluizandre
